@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Zen Blog</title>
-    <link href="https://zenblog.co/feed.xml" rel="self" />
-    <link href="https://zenblog.co" />
+    <link href="http://zenblog.co/feed.xml" rel="self" />
+    <link href="http://zenblog.co" />
     <updated>2023-06-16T11:48:59+07:00</updated>
     <author>
         <name>Kiều Mạnh</name>
     </author>
-    <id>https://zenblog.co</id>
+    <id>http://zenblog.co</id>
 
     <entry>
         <title>Quỹ trồng cây</title>
         <author>
             <name>Kiều Mạnh</name>
         </author>
-        <link href="https://zenblog.co/quy-trong-cay/"/>
-        <id>https://zenblog.co/quy-trong-cay/</id>
-        <media:content url="https://zenblog.co/media/posts/1/Quy-trong-cay-1.png" medium="image" />
+        <link href="http://zenblog.co/quy-trong-cay/"/>
+        <id>http://zenblog.co/quy-trong-cay/</id>
+        <media:content url="http://zenblog.co/media/posts/1/Quy-trong-cay-1.png" medium="image" />
             <category term="trồng cây"/>
 
         <updated>2023-06-16T11:48:59+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://zenblog.co/media/posts/1/Quy-trong-cay-1.png" alt="quỹ trồng cây" />
+                        <img src="http://zenblog.co/media/posts/1/Quy-trong-cay-1.png" alt="quỹ trồng cây" />
                     <p> </p>
 <p>Chào bạn 👋</p>
 <p>Từ nhỏ mình đã rất yêu thích màu xanh từ thực vật cây cối tự nhiên. Kể cả khi đã lớn lên mình vẫn dành rất nhiều thời gian vui chơi, nghỉ ngơi và học tập dưới bóng cây ở xung quanh nhà hoặc nơi mình sinh sống.</p>
@@ -148,7 +148,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://zenblog.co/media/posts/1/Quy-trong-cay-1.png" class="type:primaryImage" alt="quỹ trồng cây" /></p>
+                    <p><img src="http://zenblog.co/media/posts/1/Quy-trong-cay-1.png" class="type:primaryImage" alt="quỹ trồng cây" /></p>
                 <p> </p>
 <p>Chào bạn 👋</p>
 <p>Từ nhỏ mình đã rất yêu thích màu xanh từ thực vật cây cối tự nhiên. Kể cả khi đã lớn lên mình vẫn dành rất nhiều thời gian vui chơi, nghỉ ngơi và học tập dưới bóng cây ở xung quanh nhà hoặc nơi mình sinh sống.</p>

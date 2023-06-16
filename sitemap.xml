@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://zenblog.co/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://zenblog.co/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://zenblog.co/</loc>
+<loc>http://zenblog.co/</loc>
 </url>
 <url>
-<loc>https://zenblog.co/quy-trong-cay/</loc>
+<loc>http://zenblog.co/quy-trong-cay/</loc>
 <lastmod>2023-06-16T11:48:59+07:00</lastmod>
 <image:image>
-<image:loc>https://zenblog.co/media/posts/1/Quy-trong-cay-1.png</image:loc>
+<image:loc>http://zenblog.co/media/posts/1/Quy-trong-cay-1.png</image:loc>
 <image:title><![CDATA[quỹ trồng cây]]></image:title>
 </image:image>
 </url>
