@@ -1,2 +1,0 @@
-# zenblog.co
-Data ZenBlog
