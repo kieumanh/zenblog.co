@@ -3,7 +3,7 @@
     <title>Zen Studio</title>
     <link href="https://zenblog.co/feed.xml" rel="self" />
     <link href="https://zenblog.co" />
-    <updated>2023-07-07T14:40:40+07:00</updated>
+    <updated>2023-07-07T14:52:20+07:00</updated>
     <author>
         <name>Kiều Mạnh</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://zenblog.co/media/posts/2/z4448604343487_d2c6d57c42bd02a20a4bb96012961e3e-4.jpg" medium="image" />
             <category term="tác giả"/>
 
-        <updated>2023-07-07T14:40:40+07:00</updated>
+        <updated>2023-07-07T14:52:20+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://zenblog.co/media/posts/2/z4448604343487_d2c6d57c42bd02a20a4bb96012961e3e-4.jpg" alt="kiều mạnh" />
@@ -80,7 +80,7 @@
 <p> </p>
 <div class="post__iframe"><iframe loading="lazy" width="384" height="480" src="https://giphy.com/embed/dWOKEQ5ewh94RJLemj" frameborder="0" class="giphy-embed" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
 <p> </p>
-<h3>Danh sách hoạt động năm 2022: </h3>
+<h3>📚 Danh sách hoạt động: </h3>
 <ol>
 <li> <strong>Tài nguyên</strong>: 
 <ul>
@@ -93,7 +93,7 @@
 </li>
 <li><strong>Hỗ trợ:</strong><br>
 <ul style="list-style-type: circle;">
-<li><a href="#non-existing-post-with-id-46" target="_blank" rel="noopener noreferrer">Khóa thực hành Zen Coach 101</a></li>
+<li><a href="https://www.facebook.com/101276625441161/posts/pfbid02zpNGmUw5aGK9Na2h6r4EZFcBAsdFChURgRAoFidu7va6keFZh1j6nb8eA95JBtScl/" target="_blank" rel="noopener noreferrer">Khóa thực hành Zen Coach 101</a></li>
 <li><span data-offset-key="2mpv3-0-0"><a href="https://zenblog.co/quy-ung-ho/" target="_blank" rel="noopener noreferrer">Quỹ ủng hộ</a></span></li>
 <li><a href="https://zenblog.co/quy-trong-cay/" target="_blank" rel="noopener noreferrer">Quỹ trồng cây</a></li>
 </ul>
@@ -101,8 +101,7 @@
 <li><strong>Cộng đồng: </strong><br>
 <ul>
 <li><a href="https://www.facebook.com/groups/thientunhien" target="_blank" rel="noopener noreferrer">Nhóm Facebook</a></li>
-<li><a href="https://m.me/j/AbZBPsqr0SIifot7/" target="_blank" rel="noopener noreferrer">Nhóm chat FB Message</a></li>
-<li><a href="https://zalo.me/g/peeqqr170" target="_blank" rel="noopener noreferrer">Nhóm chat Zalo</a></li>
+<li><a href="https://zalo.me/g/peeqqr170" target="_blank" rel="noopener noreferrer">Nhóm Zalo</a></li>
 </ul>
 </li>
 </ol>
