@@ -23,11 +23,35 @@
 						}
 						
 						
-			(function() {
-				var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
-				gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
-				(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
-			})();</script><script type="text/javascript"></script></div></div></div><nav class="pagination post__nav"><span class="h3 pagination__prev disabled"><svg aria-hidden="true" width="40" height="14" fill="currentColor"><use xlink:href="https://zenblog.co/assets/svg/svg-map.svg#prev-arrow"/></svg> <span>Previous post</span> </span><a href="https://zenblog.co/gioi-thieu-tac-gia/" class="h3 pagination__next" rel="next"><span>Next post</span> <svg aria-hidden="true" width="40" height="14" fill="currentColor"><use xlink:href="https://zenblog.co/assets/svg/svg-map.svg#next-arrow"/></svg></a></nav></main><footer class="footer footer--centered"><div class="footer__contact"><p><a href="#"><svg aria-hidden="true" width="24" height="24" fill="currentColor"><use xlink:href="https://zenblog.co/assets/svg/svg-map.svg#map-pin"/></svg> 146 Ni Sư Huỳnh Liên, phường 10, quận Tân Bình, TP HCM</a></p><h3 class="h1">admin@zenblog.co</h3><h3 class="h1">0388000680</h3></div><ul class="footer__nav" data-disable-cursor><li><span>Chính sách và điều khoản</span></li></ul><div class="footer__copy" data-disable-cursor>@Thiết kế bởi Zen Team 2023</div></footer><div id="cursor" aria-hidden="true"><div class="cursor__circle"></div></div><script defer="defer" src="https://zenblog.co/assets/js/scripts.min.js?v=b7b9a7735b2ca1bcce7ec6f1603664f3"></script><script>window.publiiThemeMenuConfig = {    
+				var gc_element_to_check = document.getElementById('graphcomment');
+
+				if ('IntersectionObserver' in window) {
+					var iObserver = new IntersectionObserver(
+						(entries, observer) => {
+							entries.forEach(entry => {
+								if (entry.intersectionRatio >= 0.1) {
+									(function() {
+										var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+										gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+										(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+									})();
+									observer.unobserve(entry.target);
+								}
+							});
+						},
+						{
+							threshold: [0, 0.2, 0.5, 1]
+						}
+					);
+
+					iObserver.observe(gc_element_to_check);
+				} else {
+					(function() {
+						var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+						gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+						(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+					})();
+				}</script><script type="text/javascript"></script></div></div></div><nav class="pagination post__nav"><span class="h3 pagination__prev disabled"><svg aria-hidden="true" width="40" height="14" fill="currentColor"><use xlink:href="https://zenblog.co/assets/svg/svg-map.svg#prev-arrow"/></svg> <span>Previous post</span> </span><a href="https://zenblog.co/gioi-thieu-tac-gia/" class="h3 pagination__next" rel="next"><span>Next post</span> <svg aria-hidden="true" width="40" height="14" fill="currentColor"><use xlink:href="https://zenblog.co/assets/svg/svg-map.svg#next-arrow"/></svg></a></nav></main><footer class="footer footer--centered"><div class="footer__contact"><p><a href="#"><svg aria-hidden="true" width="24" height="24" fill="currentColor"><use xlink:href="https://zenblog.co/assets/svg/svg-map.svg#map-pin"/></svg> 146 Ni Sư Huỳnh Liên, phường 10, quận Tân Bình, TP HCM</a></p><h3 class="h1">admin@zenblog.co</h3><h3 class="h1">0388000680</h3></div><ul class="footer__nav" data-disable-cursor><li><span>Chính sách và điều khoản</span></li></ul><div class="footer__copy" data-disable-cursor>@Thiết kế bởi Zen Team 2023</div></footer><div id="cursor" aria-hidden="true"><div class="cursor__circle"></div></div><script defer="defer" src="https://zenblog.co/assets/js/scripts.min.js?v=b7b9a7735b2ca1bcce7ec6f1603664f3"></script><script>window.publiiThemeMenuConfig = {    
         mobileMenuMode: 'overlay',
         animationSpeed: 300,
         submenuWidth: 'auto',
