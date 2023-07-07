@@ -14,7 +14,7 @@
             "id": "https://zenblog.co/lien-he/",
             "url": "https://zenblog.co/lien-he/",
             "title": "Liên hệ",
-            "content_html": "<div class=\"post__iframe\"><iframe width=\"100%\" height=\"200\" data-tally-src=\"https://tally.so/embed/nPDqG1?alignLeft=1&amp;hideTitle=1&amp;transparentBackground=1&amp;dynamicHeight=1\" loading=\"lazy\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" title=\"Liên hệ\"></iframe></div>\n<script>var d=document,w=\"https://tally.so/widgets/embed.js\",v=function(){\"undefined\"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll(\"iframe[data-tally-src]:not([src])\").forEach((function(e){e.src=e.dataset.tallySrc}))};if(\"undefined\"!=typeof Tally)v();else if(d.querySelector('script[src=\"'+w+'\"]')==null){var s=d.createElement(\"script\");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>\n</p>",
+            "content_html": "<div class=\"post__iframe\"><iframe width=\"100%\" height=\"200\" data-tally-src=\"https://tally.so/embed/mVj64j?alignLeft=1&amp;hideTitle=1&amp;transparentBackground=1&amp;dynamicHeight=1\" loading=\"lazy\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" title=\"Contact Form\"></iframe></div>\n<script>\n\tvar d = document,\n\t\tw = \"https://tally.so/widgets/embed.js\",\n\t\tv = function() {\n\t\t\t\"undefined\" != typeof Tally ? Tally.loadEmbeds() : d.querySelectorAll(\"iframe[data-tally-src]:not([src])\").forEach((function(e) {\n\t\t\t\te.src = e.dataset.tallySrc\n\t\t\t}))\n\t\t};\n\tif (\"undefined\" != typeof Tally) v();\n\telse if (d.querySelector('script[src=\"' + w + '\"]') == null) {\n\t\tvar s = d.createElement(\"script\");\n\t\ts.src = w, s.onload = v, s.onerror = v, d.body.appendChild(s);\n\t}\n</script>\n</p>",
             "image": "https://zenblog.co/media/posts/5/Untitled-design-2.png",
             "author": {
                 "name": "Kiều Mạnh"
@@ -23,7 +23,7 @@
                    "liên hệ"
             ],
             "date_published": "2023-07-07T15:12:43+07:00",
-            "date_modified": "2023-07-07T15:39:33+07:00"
+            "date_modified": "2023-07-07T15:59:59+07:00"
         },
         {
             "id": "https://zenblog.co/gioi-thieu-tac-gia/",
