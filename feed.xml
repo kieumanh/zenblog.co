@@ -3,12 +3,33 @@
     <title>Zen Studio</title>
     <link href="https://zenblog.co/feed.xml" rel="self" />
     <link href="https://zenblog.co" />
-    <updated>2023-07-07T14:52:20+07:00</updated>
+    <updated>2023-07-07T15:19:09+07:00</updated>
     <author>
         <name>Kiều Mạnh</name>
     </author>
     <id>https://zenblog.co</id>
 
+    <entry>
+        <title>Liên hệ</title>
+        <author>
+            <name>Kiều Mạnh</name>
+        </author>
+        <link href="https://zenblog.co/lien-he/"/>
+        <id>https://zenblog.co/lien-he/</id>
+        <media:content url="https://zenblog.co/media/posts/5/Untitled-design.png" medium="image" />
+            <category term="liên hệ"/>
+
+        <updated>2023-07-07T15:19:09+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://zenblog.co/media/posts/5/Untitled-design.png" class="type:primaryImage" alt="Liên hệ" /></p>
+                <p class="align-center"><div class="post__iframe"><iframe width="100%" height="292" data-tally-src="https://tally.so/embed/nPDqG1?alignLeft=1&amp;hideTitle=1&amp;transparentBackground=1&amp;dynamicHeight=1" loading="lazy" frameborder="0" marginheight="0" marginwidth="0" title="Liên hệ"></iframe></div>
+<script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
+</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Giới thiệu tác giả</title>
         <author>
