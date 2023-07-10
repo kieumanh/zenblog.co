@@ -15,14 +15,14 @@
             "url": "https://zenblog.co/demo/",
             "title": "Demo",
             "summary": "Demo gửi Ngọc by Kieu Manh",
-            "content_html": "<div class=\"post__iframe\"><iframe style=\"position: relative; width: 100%; height: 600px; max-height: 80vh; border: none; padding: 0; margin: 0; overflow: hidden;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAFoJ7Sqh_U/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n\t</iframe></div> <a href=\"https://www.canva.com/design/DAFoJ7Sqh_U/view?utm_content=DAFoJ7Sqh_U&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">Demo gửi Ngọc</a> by Kieu Manh</p>\n<p>\n<script>(function(f,n) { n = document.createElement('script'); n.src = 'https://fcdn.answerly.io/fn.js'; n.setAttribute('data-companyId', f); document.getElementsByTagName('html')[0].insertAdjacentElement('beforeend', n); })('3359d4b7-e73f-4a25-9564-f477eae83503');</script>\n</p>",
+            "content_html": "<div class=\"post__iframe\"><iframe style=\"position: relative; width: 100%; height: 600px; max-height: 80vh; border: none; padding: 0; margin: 0; overflow: hidden;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAFoJ7Sqh_U/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n\t</iframe></div> <a href=\"https://www.canva.com/design/DAFoJ7Sqh_U/view?utm_content=DAFoJ7Sqh_U&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">Demo gửi Ngọc</a> by Kieu Manh</p>\n<p>\n<script id=\"d0ad6cbc-80ac-465e-a915-26f7bb927d1c\" data-company-id=\"3359d4b7-e73f-4a25-9564-f477eae83503\" data-product-name=\"FacePop\" data-product-iframe=\"create\" src=\"https://fcdn.answerly.io/iframe.product.js\"></script>\n</p>",
             "author": {
                 "name": "Kiều Mạnh"
             },
             "tags": [
             ],
             "date_published": "2023-07-09T22:37:47+07:00",
-            "date_modified": "2023-07-10T16:21:00+07:00"
+            "date_modified": "2023-07-10T16:21:40+07:00"
         },
         {
             "id": "https://zenblog.co/gioi-thieu-tac-gia/",
